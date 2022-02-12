@@ -588,7 +588,7 @@
     
     
     
-    @-webkit-keyframes image_blur {
+    @keyframes image_blur {
         0% { filter: blur(0px);}
         25% { filter: blur(5px);}
         50% { filter: blur(10px);}
@@ -1599,7 +1599,7 @@
         text-align: center;
     }
 
-    
+
 
     /* Reset */
 
